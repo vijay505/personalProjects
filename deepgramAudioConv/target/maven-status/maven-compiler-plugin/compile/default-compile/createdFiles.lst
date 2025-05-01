@@ -1,0 +1,3 @@
+com\opentext\deepgramAudioConv\service\DeepgramService.class
+com\opentext\deepgramAudioConv\controller\DeepgramAudioConvController.class
+com\opentext\deepgramAudioConv\DeepgramAudioConvApplication.class
