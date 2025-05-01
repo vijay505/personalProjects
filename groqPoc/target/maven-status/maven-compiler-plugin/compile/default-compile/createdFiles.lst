@@ -1,0 +1,4 @@
+com\opentext\groqPoc\requestDTO\ChatRequest.class
+com\opentext\groqPoc\responseDTO\ChatResponse.class
+com\opentext\groqPoc\controller\GroqController.class
+com\opentext\groqPoc\GroqBackendApplication.class
